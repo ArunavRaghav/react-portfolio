@@ -113,7 +113,7 @@ export const experiences = [
     {
         title: "Web Developer Intern",
         company_name: "Coding Raja Technologies",
-        icon: starbucks,
+        icon: codingraja,
         iconBg: "#accbe1",
         date: "June 2023 - July 2023",
         points: [
