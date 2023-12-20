@@ -1,4 +1,4 @@
-import { meta, shopify, starbucks, tesla } from "../assets/images";
+import { meta, shopify, starbucks, tesla, codingraja, codeclause, bharat} from "../assets/images";
 import {
     car,
     contact,
@@ -126,21 +126,8 @@ export const experiences = [
     },
     {
         title: "Web Developer Intern",
-        company_name: "Coding Raja Technologies",
-        icon: starbucks,
-        iconBg: "#accbe1",
-        date: "June 2023 - July 2023",
-        points: [
-            "Developing and Creating various Projects Using Web Technologies Like React.js,BootStrap and JavaScript.",
-            
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
-            "Created Various Projects Like 3D Landing Pages.",
-        ],
-    },{
-        title: "Web Developer Intern",
-        company_name: "Coding Raja Technologies",
-        icon: starbucks,
+        company_name: "Code Clause",
+        icon: codeclause,
         iconBg: "#accbe1",
         date: "June 2023 - July 2023",
         points: [
@@ -153,8 +140,8 @@ export const experiences = [
     },
     {
         title: "Web Developer Intern",
-        company_name: "Coding Raja Technologies",
-        icon: starbucks,
+        company_name: "Bharat Intern",
+        icon: bharat,
         iconBg: "#accbe1",
         date: "June 2023 - July 2023",
         points: [
@@ -192,7 +179,7 @@ export const projects = [
         theme: 'btn-back-red',
         name: 'Apple Vision 3D clone',
         description: 'Developed Apple Vision Clone Website with the help of GSAP, Scroll Trigger,Locomotive Js.',
-        link: 'https://apple-vision-clone-alpha.vercel.app/',
+        link: 'https://apple-vision-ruby.vercel.app/',
     },
     {
         iconUrl: threads,
@@ -206,7 +193,7 @@ export const projects = [
         theme: 'btn-back-blue',
         name: 'Realtime Weather App',
         description: 'Created a realtime weather app with the help of Html,Css and basic JavaScript with API Call',
-        link: ' https://arunav-raghav-weatherapp.vercel.app/',
+        link: 'https://arunav-raghav-weatherapp.vercel.app/',
     },
     {
         iconUrl: snapgram,
